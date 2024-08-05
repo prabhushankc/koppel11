@@ -1,0 +1,34 @@
+{
+  "answers": [
+    {
+      "unknown_text": "unknown00001.txt",
+      "author": "candidate00003",
+      "score": 0.936
+    },
+    {
+      "unknown_text": "unknown00002.txt",
+      "author": "candidate00002",
+      "score": 1.0
+    },
+    {
+      "unknown_text": "unknown00003.txt",
+      "author": "candidate00003",
+      "score": 0.558
+    },
+    {
+      "unknown_text": "unknown00004.txt",
+      "author": "candidate00001",
+      "score": 1.0
+    },
+    {
+      "unknown_text": "unknown00005.txt",
+      "author": "candidate00001",
+      "score": 0.772
+    },
+    {
+      "unknown_text": "unknown00006.txt",
+      "author": "candidate00002",
+      "score": 1.0
+    }
+  ]
+}
